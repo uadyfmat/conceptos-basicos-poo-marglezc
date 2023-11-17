@@ -19,7 +19,7 @@ Ejemplo: Tenemos una clase llamada controlador que cuenta con métodos privados 
 ## De qué manera se representa la Modularidad en POO? Ejemplo.
 Esto se representa mediante la creación de clases y objetos que encapsulan datos y comportamientos relacionados, y mediante el uso de herencia, el polimorfismo y los paquetes para organizar y estructurar el código de manera clara y mantenible.
 
-Ejemplo: Se divide la clase controlador en los metodos añadir, eliminar y borrar.
+Ejemplo: Se divide la clase controlador, Alumno, Conexión, etc. y  contienen los metodos añadir, eliminar y borrar.
 
 ## Considera Polimorfismo.Cuál es la diferencia de usar Herencia e Interfaces? Ventajas y Desventajas.
 
